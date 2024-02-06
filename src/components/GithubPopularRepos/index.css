@@ -1,0 +1,19 @@
+.main-heading {
+  font-family: Lobster;
+  text-align: center;
+}
+.language-items {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.failure-img {
+  height: 250px;
+  width: 250px;
+}
+.failure-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
